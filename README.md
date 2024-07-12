@@ -88,7 +88,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shefai-tur/shefai-tur/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
